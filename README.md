@@ -19,7 +19,7 @@
   </ul>
 
   <h4 style="color: #16a085; font-size: 1.3em; margin-top: 15px;">2. Role Selection</h4>
-  <ul style="list-style-type: disc; padding-left: 20px;">
+  <ul style="list-style-type: disc; padding-left: 20px;"> 
     <li>Players independently choose their roles for the round:</li>
     <ul style="list-style-type: circle; padding-left: 20px;">
       <li><strong>Answering Player</strong>: Attempts to select the correct answer.</li>
